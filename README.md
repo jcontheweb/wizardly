@@ -1,1 +1,1 @@
-# @justincairns/wizardly
+# wizardly

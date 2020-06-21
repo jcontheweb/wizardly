@@ -1,4 +1,11 @@
 {
-    "name": "@justincairns/wizardly",
-    "version": "1.0.0"
+    "name": "wizardly",
+    "version": "1.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jcontheweb/wizardly.git"
+    },
+    "devDependencies": {
+        "animejs": "^3.2.0"
+    }
 }
