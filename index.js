@@ -1,6 +1,6 @@
 import anime from "animejs/lib/anime.es.js";
 
-export const wizardly = () => {
+function wizardly() {
     let step = 1;
     const form = document.querySelector("[data-form-wizard]");
 
@@ -129,3 +129,5 @@ export const wizardly = () => {
         });
     }
 }
+
+module.exports.wizardly = wizardly;
